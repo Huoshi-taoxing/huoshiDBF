@@ -79,10 +79,10 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/nsJKk8jC/Captura-de-pantalla-2025-05-30-010736.png" alt="截图1" width="500" /><br><br>
-  <img src="https://i.ibb.co/276P84DZ/Captura-de-pantalla-2025-05-30-010818.png" alt="截图2" width="500" /><br><br>
-  <img src="https://i.ibb.co/bjdvngkr/Captura-de-pantalla-2025-05-30-010832.png" alt="截图3" width="500" /><br><br>
-  <img src="https://i.ibb.co/Lmqb6tz/Captura-de-pantalla-2025-05-30-010841.png" alt="截图4" width="500" />
+  <img src="https://i.ibb.co/nsJKk8jC/Captura-de-pantalla-2025-05-30-010736.png" alt="截图1" width="700" /><br><br>
+  <img src="https://i.ibb.co/276P84DZ/Captura-de-pantalla-2025-05-30-010818.png" alt="截图2" width="700" /><br><br>
+  <img src="https://i.ibb.co/bjdvngkr/Captura-de-pantalla-2025-05-30-010832.png" alt="截图3" width="700" /><br><br>
+  <img src="https://i.ibb.co/Lmqb6tz/Captura-de-pantalla-2025-05-30-010841.png" alt="截图4" width="700" />
 </p>
 
 
