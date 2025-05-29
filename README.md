@@ -77,6 +77,16 @@
 - B站：https://space.bilibili.com/3546720468207796?spm_id_from=333.337.search-card.all.click
 
 ---
+
+<p align="center">
+  <img src="https://i.ibb.co/nsJKk8jC/Captura-de-pantalla-2025-05-30-010736.png" alt="截图1" width="500" /><br><br>
+  <img src="https://i.ibb.co/276P84DZ/Captura-de-pantalla-2025-05-30-010818.png" alt="截图2" width="500" /><br><br>
+  <img src="https://i.ibb.co/bjdvngkr/Captura-de-pantalla-2025-05-30-010832.png" alt="截图3" width="500" /><br><br>
+  <img src="https://i.ibb.co/Lmqb6tz/Captura-de-pantalla-2025-05-30-010841.png" alt="截图4" width="500" />
+</p>
+
+
+---
 ## 关键词
 目录爆破，huoshidbf，目录爆破DBF，火狮桃星，目录爆破工具，Directory Brute Forcing Tool，渗透测试，Web 安全，渗透测试工具，Python 爆破工具，多线程目录爆破，HTTP 目录扫描，隐蔽访问，网络安全研究，渗透测试字典
 
