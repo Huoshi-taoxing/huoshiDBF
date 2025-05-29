@@ -4,7 +4,7 @@
 目录爆破DBF 是一款基于 Python编写的专业目录爆破工具，旨在辅助授权范围内的渗透测试和网络安全研究。  
 通过伪装多种操作系统和浏览器的用户代理及来源 IP，实现较为隐蔽的爆破访问，帮助用户发现网站隐藏目录和文件。
 
-[![观看视频](https://i0.hdslb.com/bfs/archive/99331b541e4a7df2b7b79f147abfd331de79ef10.jpg)](https://b23.tv/4BtKVuU)
+[![观看视频《火狮桃星 · 目录爆破DBF 工具》](https://i0.hdslb.com/bfs/archive/866df79b5e327321a9c9f77a24f1f1f9ad25a0ce.jpg)](https://b23.tv/4BtKVuU)
 
 <img src="https://i.ibb.co/NdRyyYVH/DBF.png" alt="DBF工具截图" width="150"> <h3>目录爆破 DBF</h3>
 
