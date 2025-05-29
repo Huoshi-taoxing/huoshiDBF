@@ -50,7 +50,8 @@
 
 ## 开发者
 - 火狮桃星 HUOSHI  
-- 影火 Shadow Flame  
+- 影火 Shadow Flame
+- B站：https://space.bilibili.com/3546720468207796?spm_id_from=333.337.search-card.all.click
 
 ---
 
