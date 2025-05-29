@@ -59,3 +59,46 @@
 目录爆破，huoshidbf，目录爆破DBF，火狮桃星，目录爆破工具，Directory Brute Forcing Tool，渗透测试，Web 安全，渗透测试工具，Python 爆破工具，多线程目录爆破，HTTP 目录扫描，隐蔽访问，网络安全研究，渗透测试字典
 
 感谢使用火狮桃星 的 目录爆破 DBF 工具，祝您测试顺利！
+
+---
+
+English:
+
+# Directory Brute Forcing Tool (DBF)
+
+## Overview
+DBF is a professional directory brute forcing tool written in Python for authorized penetration testing and cybersecurity research.  
+It uses randomized User-Agent, Referer headers, and spoofed source IPs to perform stealthy brute forcing on target URLs, helping discover hidden directories and files.
+
+## Features
+- Directory brute forcing with customizable dictionaries and extensions (php, html, asp, etc.). Dictionaries included.
+- Multi-threaded requests with adjustable thread count (default 10, range 1-50).
+- Randomized User-Agent, Referer, and spoofed IPs to reduce detection.
+- Response keyword filtering to show only relevant results.
+- Support for custom HTTP headers.
+- Real-time request logs with option to show only HTTP 200 OK responses.
+- Separate list for discovered valid directories/files.
+- Dark mode UI option.
+- Simple, clean PyQt5 GUI for easy operation.
+
+## Usage
+1. Enter the target URL (must start with http:// or https://).  
+2. Load a directory dictionary file (one directory or filename per line).  
+3. Optionally set file extensions, response keywords, custom headers, and thread count.  
+4. Click **Start** to begin brute forcing, **Stop** to halt.  
+5. Use the “Only HTTP 200” filter to show successful hits.  
+6. View discovered directories from the results panel.  
+7. Switch UI theme between light and dark in settings.
+
+## Important
+- Only use this tool on systems where you have permission.  
+- Excessive thread counts or request rates may cause server overload or IP blocking.  
+- Intended for learning, research, and authorized security testing only.
+
+## Author
+- Huoshi Taoxing (火狮桃星) / Shadow Flame (影火)  
+- Bilibili: https://space.bilibili.com/3546720468207796?spm_id_from=333.337.search-card.all.click
+
+---
+
+Thank you for using Huoshi Taoxing’s DBF tool! Wishing you successful tests.
