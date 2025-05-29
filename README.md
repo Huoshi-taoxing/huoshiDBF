@@ -1,4 +1,4 @@
-# 火狮 HUOSHI - 目录爆破 DBF (Directory Brute Forcing Tool)
+# 目录爆破 DBF - 目录爆破工具 (Directory Brute Forcing Tool)
 
 ## 简介
 目录爆破DBF 是一款基于 Python编写的专业目录爆破工具，旨在辅助授权范围内的渗透测试和网络安全研究。  
